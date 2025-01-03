@@ -20,7 +20,7 @@ Authentication & Authorization: Secure login and role-based access.
 
 ### Create env file with your mongoDB database URL
 
-###Start the backend server
+### Start the backend server
 ```npm run dev```
 
 ### Open a new terminal, navigate to the frontend folder, and install dependencies
